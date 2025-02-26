@@ -27,7 +27,7 @@ public class NBody{
     }
 
     /** Set the background.  */
-    public static String imageToDraw = "images/starfield.jpg";
+    private static String imageToDraw = "images/starfield.jpg";
   
     public static void main(String[] args){
         /** Enables double buffering.
